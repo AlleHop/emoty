@@ -1,0 +1,29 @@
+{
+  "name": "emoty",
+  "version": "1.0.0",
+  "description": "discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlleHop/emoty.git"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "javascript"
+  ],
+  "author": "David",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/AlleHop/emoty/issues"
+  },
+  "homepage": "https://github.com/AlleHop/emoty#readme",
+  "dependencies": {
+    "axios": "^0.21.4",
+    "discord.js": "^13.1.0",
+    "dotenv": "^10.0.0"
+  }
+}
